@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+header,footer{
+    text-align: center;
+    background-color: khaki;
+    margin: 10px 0px 10px 0px;
+}
+body{
+    background-color: lightgreen
+}
